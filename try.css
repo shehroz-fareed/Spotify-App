@@ -1,0 +1,19 @@
+h1, h2 {
+    color: tomato;
+}
+
+.box > p {
+    color: aqua;
+}
+
+.box li{
+    color: blue;
+}
+
+li.done{
+    color: violet;
+}
+
+ul p.done{
+    color: chartreuse;
+}
